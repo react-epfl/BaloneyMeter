@@ -1,0 +1,83 @@
+
+
+"comment00000"="are you talking about the claim that you will meet Michael Jackson after death?";
+"comment00001"="are you sure no other alternative is possible? the best alternative among bad ones is still not very convincing.";
+"comment00010"="claims that cannot be tested or falsified are not worth much, it seems strange that this one cannot be tested, yet has been confirmed.";
+"comment00011"="claims that cannot be tested or falsified are not worth much, it seems strange that this one cannot be tested, yet has been confirmed";
+"comment00100"="are you talking about the claim that homeopathy works?";
+"comment00101"="as Hitchens says: what can be asserted without evidence, can be dismissed without evidence";
+"comment00110"="make sure all the existing evidence support this claim and not another";
+"comment00111"="remember that the plural of anecdote is not data";
+"comment01000"="remember that arguments from authority carry little weight, follow the evidence";
+"comment01001"="watch out for unreliable sources, biases and conflicts of interest";
+"comment01010"="claims that cannot be tested or falsified are not worth much, it seems strange that this one cannot be tested, yet has been confirmed";
+"comment01011"="claims that cannot be tested or falsified are not worth much, it seems strange that this one cannot be tested, yet has been confirmed";
+"comment01100"="controlled experiments are key to supporting claims, especially extraordinary claims";
+"comment01101"="as Carl Sagan says: extraordinary claims require extraordinary evidence!";
+"comment01110"="encourage debate around the evidence by knowledgeable proponents of all points of view";
+"comment01111"="are you talking about the claim that evolution is the basis of the diversity of life?";
+"comment10000"="are you talking about the claim of your ex that you’re a bad lover?";
+"comment10001"="beware of unreliable source, conflicts of interest and cognitive biases.";
+"comment10010"="encourage debate around the evidence by knowledgeable proponents of all points of view";
+
+"comment10011"="claims that cannot be tested or falsified are not worth much.";
+"comment10100"="are you talking about the claim of your employee that he is sick today?";
+"comment10101"="are you talking about your mechanics' claim that your tires need to be changed?";
+"comment10110"="are you talking about your classmate’s claim that he aced exams without working at all?";
+"comment10111"="even if the source is unreliable, if all the evidence points in the same direction, the claim is probably not baloney";
+"comment11000"="are you talking about your partner’s claim that you are an excellent lover?";
+
+"comment11001"="try to spin more than one hypothesis";
+"comment11010"="claims that cannot be tested or falsified are not worth much, it seems strange that this one cannot be tested, yet has been confirmed";
+"comment11011"="claims that cannot be tested or falsified are not worth much, it seems strange that this one cannot be tested, yet has been confirmed";
+
+"comment11100"="are you talking about your mom’s claim that she likes your new flirt?";
+"comment11101"="are you talking about your mom’s claim that she is feeling sick?";
+
+"comment11110"="encourage debate around the evidence by knowledgable proponents of all points of view. don’t be too attached to an idea simply because its yours.";
+"comment11111"="are you talking about the claim that global warming is mainly human made?";
+
+"comment"="always use the Baloney Meter before believing the baloney";
+
+"question" = "is this claim baloney?";
+"score5" = "probably not";
+"score4" = "possibly not";
+"score3" = "it might be";
+"score2" = "probably it is";
+"score1" = "most probably";
+"score0" = "I don’t know";
+
+"extraordinary?" = "is it extraordinary?";
+"extraordinary1" = "it’s really unbelievable";
+"extraordinary2" = "it’s extraordinary";
+"extraordinary3" = "it’s surprising";
+"extraordinary4" = "it’s a bit surprising";
+"extraordinary5" = "it’s ordinary";
+
+"source?" = "is its source reliable?";
+"source1" = "its source is not at all reliable";
+"source2" = "its source is not very reliable";
+"source3" = "its source is somewhat reliable";
+"source4" = "its source is reliable";
+"source5" = "its source is very reliable";
+
+"testable?" = "can it be tested?";
+"testable1" = "it cannot be tested at all";
+"testable2" = "it’s too vague to be tested";
+"testable3" = "it cannot be tested very well";
+"testable4" = "it can reasonably be tested";
+"testable5" = "it can be tested accurately";
+
+"positive?" = "is there confirmation for it?";
+"positive1" = "there is no confirmation whatsoever";
+"positive2" = "no one has bothered confirming";
+"positive3" = "there is some confirmation";
+"positive4" = "there is strong confirmation";
+"positive5" = "there is overwhelming confirmation";
+
+"negative?" = "can there be another explanation?";
+"negative1" = "alternative claims are much better";
+"negative2" = "no one checked for other alternatives";
+"negative3" = "alternative claims are possible";
+"negative4" = "alternative claims are not as good";
+"negative5" = "no other alternative comes close";

@@ -1,0 +1,77 @@
+"comment00000"="êtes vous en train de parler du fait que vous allez retrouver Michael Jackson après la mort?";
+"comment00001"="êtes vous sûr-e qu’aucune autre alternative n’est possible? être la meilleure parmi des mauvaises alternatives n’est pas super convaincant.";
+"comment00010"="des infos qui ne peuvent ni être testées ni démenties ne valent pas grand chose, êtes vous sûr-e que l’info ne peut être vérifiée, mais est confirmée?";
+"comment00011"="des infos qui ne peuvent ni être testées ni démenties ne valent pas grand chose, êtes vous sûr que l’info ne peut être vérifiée, mais est confirmée?";
+"comment00100"="êtes vous en train de parler de l’affirmation que l’homéopathie marche?";
+"comment00101"="ce qui peut être affirmé sans preuve, peut être balayé sans preuve - Christopher Hitchens";
+"comment00110"="soyez sur que toutes les preuves existantes supportent votre information et non une autre.";
+"comment00111"="rappelez-vous que peu importe le nombre d’anecdotes, elles ne constituent pas des preuves solides";
+"comment01000"="rappelez-vous que les arguments d’autorité ne pèsent pas très lourd, suivez les preuves.";
+"comment01001"="rappelez-vous que les arguments d’autorité ne pèsent pas très lourd.";
+"comment01010"="êtes-vous sûr-e que l’info ne peut être vérifiée ou démentie mais est confirmée?";
+"comment01011"="êtes-vous sûr-e que l’info ne peut être vérifiée ni démentie mais est confirmée?";
+"comment01100"="des expériences controllées sont clé pour supporter une affirmation, en particulier celles qui sont extraordinaires";
+"comment01101"="soyez plus exigent-e avec des informations extraordinaires, elles requièrent des preuves extraordinaires.";
+"comment01110"="encouragez le débat entre des points de vue différents";
+"comment01111"="êtes-vous en train de parler du fait que l’évolution explique la diversité de la vie sur terre?";
+"comment10000"="êtes vous en train de parler de l’affirmation de votre ex que vous êtiez un mauvais coup?";
+"comment10001"="soyez prudent face a des sources non-fiables, face aux conflits d’intérêt et aux biais cognitifs.";
+"comment10010"="des infos qui ne peuvent ni être testées ni démenties ne valent pas grand chose";
+"comment10011"="des infos qui ne peuvent ni être testées ni démenties ne valent pas grand chose";
+"comment10100"="parlez vous de l’info de votre employé qui vous appelle pour dire qu’il est malade?";
+"comment10101"="parlez vous de l’info de votre garagiste qui dit que vos pneus doivent être changés";
+"comment10110"="parlez vous de l’affirmation de votre pote qui dit avoir masterisé ses examens sans bosser?";
+"comment10111"="même si la source n'est pas fiable, si toutes les preuves vont dans le même sens, l'affirmation est probablement valable.";
+"comment11000"="êtes vous en train de parler de l’affirmation de votre partenaire que vous êtes son meilleur coup?";
+"comment11001"="des infos qui ne peuvent ni être testées ni démenties ne valent pas grand chose.";
+"comment11010"="des infos qui ne peuvent ni être testées ni démenties ne valent pas grand chose.";
+"comment11011"="êtes vous sûr que l’info est vérifiée et invérifiable en même temps?";
+"comment11100"="parlez vous de l’info de votre mère qui vous affirme qu’elle apprécie votre nouveau flirt?";
+"comment11101"="parlez vous de l’info de votre père garagiste qui dit que vos pneus doivent être changés?";
+"comment11110"="encourager les débats d’idée et ne soyez pas trop attaché-e à une idée juste parce que c’est la vôtre.";
+"comment11111"="êtes vous en train de parler de l’affirmation que le réchauffement climatique est dû aux activités humaines?";
+
+"comment"="posez-vous quelques questions avant de croire n’importe quelle info";
+
+"question" = "info ou intox?";
+"score5" = "sûrement info";
+"score4" = "plutôt info";
+"score3" = "peut-être intox";
+"score2" = "plutôt intox";
+"score1" = "sûrement intox";
+"score0" = "je ne sais pas";
+
+"extraordinary?" = "est-ce extraordinaire?";
+"extraordinary1" = "c’est complètement fou";
+"extraordinary2" = "c’est extraordinaire";
+"extraordinary3" = "c’est surprenant";
+"extraordinary4" = "c’est assez ordinaire";
+"extraordinary5" = "c’est très ordinaire";
+
+"source?" = "est-ce que la source est fiable?";
+"source1" = "la source n’est pas du tout fiable";
+"source2" = "la source n’est pas fiable";
+"source3" = "la source est assez fiable";
+"source4" = "la source est fiable";
+"source5" = "la source est super fiable";
+
+"testable?" = "est ce que ça peut être vérifié?";
+"testable1" = "ça ne peut pas du tout être vérifé";
+"testable2" = "c’est trop vague pour être vérifié";
+"testable3" = "ça ne peut pas être très bien vérifié";
+"testable4" = "ça peut être assez bien vérifié";
+"testable5" = "ça peut être vérifié précisément";
+
+"positive?" = "est-ce qu’il y a des confirmations?";
+"positive1" = "il n’y aucune confirmation";
+"positive2" = "personne n’a essayé de confirmer";
+"positive3" = "il y a un peu de confirmations";
+"positive4" = "il y a de nombreuses confirmations";
+"positive5" = "les confirmations sont innombrables";
+
+"negative?" = "peut-il y avoir une autre alternative?";
+"negative1" = "des alternatives sont beaucoup mieux";
+"negative2" = "personne n’a regardé aux alternatives";
+"negative3" = "des alternatives sont possible";
+"negative4" = "les alternatives sont pas aussi bonnes";
+"negative5" = "aucune alternative ne fait le poids";
